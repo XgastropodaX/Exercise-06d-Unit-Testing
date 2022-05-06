@@ -1,6 +1,6 @@
 # Exercise-06d-Unit-Testing
 
-Exercise for MSCH-C220, 18 November 2021
+Exercise for Max Moreno, 18 November 2021
 
 A simple example of Unit Testing, using GUT. Implements (and auto-runs) the test_example.gd suite. 2 tests should pass, and 3 should fail.
 
@@ -17,4 +17,4 @@ Any script (that follows the applicable conventions) in the res://test/unit or r
 Add more tests
 
 ## Created by 
-Jason Francis
+Max Moreno
